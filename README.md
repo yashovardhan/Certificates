@@ -25,7 +25,7 @@ This repository contains my Experience, MOOCs and other certificates that I have
 - [Machine Learning with JavaScript](./MOOCs/Udemy-Certificates/Machine-Learning-with-JavaScript.pdf)
 - [The Complete Developers Guide to MongoDB](./MOOCs/Udemy-Certificates/The-Complete-Developers-Guide-to-MongoDB.pdf)
 - [Coding Inerview Bootcamp: Algorithms and Data Stucture](./MOOCs/Udemy-Certificates/Coding-Interview-Bootcamp-Algorithms-And-Data-Structure.pdf)
-- [ES6 JavaScript: The Complete Developers' Guide](./MOOCs/Udemy-Certificates/ES6 Javascript - The Complete Developers Guide.pdf)
+- [ES6 JavaScript: The Complete Developers Guide](./MOOCs/Udemy-Certificates/ES6-Javascript-The-Complete-Developers-Guide.pdf)
 
 #### Pluralsight Certificates
 
